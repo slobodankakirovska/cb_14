@@ -1,0 +1,7 @@
+platform,subscription_plan,subscriber_count,price_per_month,total_revenue
+LioCinema,Free,104992,NULL,NULL
+LioCinema,Basic,53362,69,3681978
+LioCinema,Premium,25092,129,3236868
+Jotstar,Premium,13367,359,4798753
+Jotstar,Free,12096,NULL,NULL
+Jotstar,VIP,19157,159,3045963

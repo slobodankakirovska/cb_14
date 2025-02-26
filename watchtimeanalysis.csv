@@ -1,0 +1,19 @@
+platform,city_tier,device_type,avg_watch_time
+LioCinema,"Tier 3",Mobile,1845.73
+LioCinema,"Tier 3",TV,505.78
+LioCinema,"Tier 3",Laptop,337.79
+LioCinema,"Tier 1",Mobile,4016.63
+LioCinema,"Tier 1",TV,1075.56
+LioCinema,"Tier 1",Laptop,694.67
+LioCinema,"Tier 2",Mobile,3086.91
+LioCinema,"Tier 2",TV,780.50
+LioCinema,"Tier 2",Laptop,506.31
+Jotstar,"Tier 1",Mobile,11571.50
+Jotstar,"Tier 1",TV,6526.07
+Jotstar,"Tier 1",Laptop,5553.39
+Jotstar,"Tier 2",Mobile,9711.13
+Jotstar,"Tier 2",TV,4955.10
+Jotstar,"Tier 2",Laptop,4234.78
+Jotstar,"Tier 3",Mobile,8090.74
+Jotstar,"Tier 3",TV,3646.02
+Jotstar,"Tier 3",Laptop,3227.85
